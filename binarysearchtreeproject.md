@@ -16,7 +16,7 @@ Root = 7 (Dizideki ilk değer)
       1      6         9
     /   \
    0     3
-    \     \
-     2     4
+        / \
+       2   4
 
 ````
